@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/paulacruz555/REPOSITORIO-DE-ALUMNOS-/static/css/main.71a142fb.css",
+    "main.js": "/paulacruz555/REPOSITORIO-DE-ALUMNOS-/static/js/main.95cadb2a.js",
+    "static/js/787.cc4e593a.chunk.js": "/paulacruz555/REPOSITORIO-DE-ALUMNOS-/static/js/787.cc4e593a.chunk.js",
+    "index.html": "/paulacruz555/REPOSITORIO-DE-ALUMNOS-/index.html",
+    "main.71a142fb.css.map": "/paulacruz555/REPOSITORIO-DE-ALUMNOS-/static/css/main.71a142fb.css.map",
+    "main.95cadb2a.js.map": "/paulacruz555/REPOSITORIO-DE-ALUMNOS-/static/js/main.95cadb2a.js.map",
+    "787.cc4e593a.chunk.js.map": "/paulacruz555/REPOSITORIO-DE-ALUMNOS-/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a142fb.css",
+    "static/js/main.95cadb2a.js"
+  ]
+}
